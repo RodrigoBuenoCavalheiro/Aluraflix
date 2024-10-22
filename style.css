@@ -1,4 +1,11 @@
 body{
     background-color: blue;
     color:black;
+
+}
+
+section{
+    background-color: lightslategray;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
