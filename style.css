@@ -22,8 +22,9 @@ img{
 }
 
 .categoria{
-    padding-left: 30px;
-    padding-right: 500px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
     background-color: aquamarine;
 }
 .categoria-videos{
